@@ -11,6 +11,7 @@
     text-align: center;
 }
 .products h1{
+    width: 100%;
     text-align: center;
     color: #7F1AA6;
     font-size: 55px;
@@ -67,6 +68,6 @@ color: rgb(49, 45, 45);
         margin: 0px;
     }
     .products h1{
-        font-size: 35px;
+        font-size: 30px;
     }
   }
